@@ -1,4 +1,5 @@
-# myspaceshooter
+# My Space Shooter
+
 Simple space shooter offline.
 
 Fly around and collide with fighter coming to get you! 
