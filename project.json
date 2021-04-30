@@ -1,0 +1,71 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/libs\jshashtable.js"
+, "src/gd.js"
+, "src/gd-splash-image.js"
+, "src/libs\hshg.js"
+, "src/libs\rbush.js"
+, "src/inputmanager.js"
+, "src/jsonmanager.js"
+, "src/timemanager.js"
+, "src/runtimeobject.js"
+, "src/profiler.js"
+, "src/runtimescene.js"
+, "src/scenestack.js"
+, "src/polygon.js"
+, "src/force.js"
+, "src/layer.js"
+, "src/timer.js"
+, "src/runtimegame.js"
+, "src/variable.js"
+, "src/variablescontainer.js"
+, "src/oncetriggers.js"
+, "src/runtimebehavior.js"
+, "src/spriteruntimeobject.js"
+, "src/events-tools\commontools.js"
+, "src/events-tools\runtimescenetools.js"
+, "src/events-tools\inputtools.js"
+, "src/events-tools\objecttools.js"
+, "src/events-tools\cameratools.js"
+, "src/events-tools\soundtools.js"
+, "src/events-tools\storagetools.js"
+, "src/events-tools\stringtools.js"
+, "src/events-tools\windowtools.js"
+, "src/events-tools\networktools.js"
+, "src/cocos-renderers\cocos-director-manager.js"
+, "src/cocos-renderers\cocos-image-manager.js"
+, "src/cocos-renderers\cocos-tools.js"
+, "src/cocos-renderers\layer-cocos-renderer.js"
+, "src/cocos-renderers\loadingscreen-cocos-renderer.js"
+, "src/cocos-renderers\runtimegame-cocos-renderer.js"
+, "src/cocos-renderers\runtimescene-cocos-renderer.js"
+, "src/cocos-renderers\spriteruntimeobject-cocos-renderer.js"
+, "src/cocos-sound-manager\cocos-sound-manager.js"
+, "src/fontfaceobserver-font-manager\fontfaceobserver.js"
+, "src/fontfaceobserver-font-manager\fontfaceobserver-font-manager.js"
+, "src/Extensions\AdMob\admobtools.js"
+, "src/Extensions\DestroyOutsideBehavior\destroyoutsideruntimebehavior.js"
+, "src/Extensions\PathfindingBehavior\pathfindingobstacleruntimebehavior.js"
+, "src/Extensions\PathfindingBehavior\pathfindingruntimebehavior.js"
+, "src/Extensions\TextObject\textruntimeobject-cocos-renderer.js"
+, "src/Extensions\TextObject\textruntimeobject.js"
+, "src/Extensions\TopDownMovementBehavior\topdownmovementruntimebehavior.js"
+, "src/code0.js"
+, "src/Extensions\FacebookInstantGames\facebookinstantgamestools.js"
+, "src/code1.js"
+, "src/code2.js"
+, "src/data.js"
+
+    ]
+}
